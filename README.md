@@ -87,6 +87,8 @@ GLaDOS automatic check-in bypassing CloudFlare using github action
 
 4. 手动启动触发工作流以开启自动同步功能。
 
+## 5. 记得隔几个月重新往readme中加些东西，让github不要忘记你的项目
+
 ## 鸣谢
 - 感谢[yaoysyao](https://github.com/yaoysyao)支持将消息推送至Pushplus的相关内容
 - 感谢[AstbReal](https://github.com/AstbReal)支持将消息推送至Server酱和企业微信的相关内容及GLaDOS用户status的解析策略
